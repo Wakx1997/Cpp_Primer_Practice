@@ -213,5 +213,6 @@ int main() {
 //    q_1_21();
 //    q_1_22();
     q_1_23();
+    system("pause");
     return 0;
 }

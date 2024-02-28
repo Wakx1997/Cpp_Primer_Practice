@@ -6,7 +6,7 @@
 #include <iostream>
 #include <string>
 
-using namespace std
+using namespace std;
 
 int fact(int i)
 {

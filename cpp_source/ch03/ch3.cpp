@@ -108,4 +108,6 @@ int main(){
 //    q_3_14();
 //    q_3_17();
     q_3_23();
+    system("pause");
+    return 0;
 }
